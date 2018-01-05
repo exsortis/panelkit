@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'PanelKit'
+  s.name = 'PanelKitPSW'
   s.version = '2.0.1'
   s.license = 'MIT'
   s.summary = 'A UI framework that enables panels on iOS.'
